@@ -5,9 +5,9 @@
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.portal</groupId>
-  <artifactId>portal</artifactId>
-  <packaging>jar</packaging>
+  <groupId>com.eportal</groupId>
+  <artifactId>eportal</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>eportal</name>
   <url>http://maven.apache.org</url>
