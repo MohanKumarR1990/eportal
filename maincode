@@ -1,0 +1,16 @@
+/**
+ * Hello World!
+ *
+ */
+public class App
+{
+    public staticc void main{ String[] args }
+    {
+     int i;
+     for{i=0;i<=10;i++}
+     {
+      System.out.printIn{ "Number: " +i};
+     }
+    }
+}
+
